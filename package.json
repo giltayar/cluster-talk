@@ -1,0 +1,27 @@
+{
+  "name": "cluster-talk",
+  "version": "1.0.0",
+  "description": "The code for my talk about the cluster API in NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giltayar/cluster-talk.git"
+  },
+  "keywords": [
+    "nodejs",
+    "talk",
+    "cluster"
+  ],
+  "author": "Gil Tayar <gil@tayar.org>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/giltayar/cluster-talk/issues"
+  },
+  "homepage": "https://github.com/giltayar/cluster-talk#readme",
+  "devDependencies": {
+    "babel-cli": "^6.2.0",
+    "babel-plugin-transform-react-jsx": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18"
+  }
+}
